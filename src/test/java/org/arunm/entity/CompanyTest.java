@@ -50,6 +50,6 @@ public class CompanyTest {
 		List<?> count = entityManager.createQuery(
 				"select owner from Owner owner", Owner.class).getResultList();
 
-		assertThat(count.size(), equalTo(1));
+		assertThat(count.size(), equalTo(2));
 	}
 }

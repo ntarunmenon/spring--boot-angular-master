@@ -1,0 +1,5 @@
+org\arunm\ProgrammingAssignmentApplication.class
+org\arunm\entity\Company.class
+org\arunm\repository\CompanyRepository.class
+org\arunm\ProgrammingAssignmentApplicationConfiguration.class
+org\arunm\entity\Owner.class
